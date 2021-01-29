@@ -1,4 +1,4 @@
-# Kitchen Sink [![renovate-app badge][renovate-badge]][renovate-app] [![semantic-release][semantic-image] ][semantic-url]
+# Kitchen Sink [![renovate-app badge][renovate-badge]][renovate-app] [![semantic-release][semantic-image] ][semantic-url][![Build Status](https://travis-ci.com/claudiareyes71/cypress-example-kitchensink.svg?branch=master)](https://travis-ci.com/claudiareyes71/cypress-example-kitchensink)
 
 ![kitchensink](https://cloud.githubusercontent.com/assets/1268976/14084252/e309e370-f4e7-11e5-9562-24f516563ac9.gif)
 
